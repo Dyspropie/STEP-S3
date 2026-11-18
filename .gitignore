@@ -17,3 +17,6 @@
 .vscode/
 .DS_Store
 Thumbs.db
+
+# PDF documentation
+*.pdf
